@@ -1,11 +1,9 @@
 import React from 'react'
-import { Button, Card } from '../Generic'
 import { Container, Section, Wrapper, Content, Image } from './style'
 import Started from '../Started'
 import free from '../../assets/img/free.png'
 import account from '../../assets/img/man.png'
 import place from '../../assets/img/place.png'
-import maximize from '../../assets/img/maxinizme.png'
 import labeling from '../../assets/img/Labeling.png'
 import aff from '../../assets/img/affiliate.png'
 

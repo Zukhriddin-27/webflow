@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Card } from '../Generic'
+import { Card } from '../Generic'
 import { Container, Section, Wrapper, Content, Image } from './style'
 import Started from '../Started'
 import free from '../../assets/img/free.png'
@@ -108,6 +108,7 @@ const Header = () => {
               customers are, what they're buying, when they're buying and what
               they're likely to buy next.
             </div>
+            {/* eslint-disable-next-line */}
             <a href='#'>Learn more</a>
           </div>
         </Card>
@@ -128,6 +129,7 @@ const Header = () => {
               officia consequat duis enim velit mollit. Exercitation veniam
               consequat sunt nostrud amet.
             </div>
+            {/* eslint-disable-next-line */}
             <a href='#'>Learn more</a>
           </div>
         </Card>

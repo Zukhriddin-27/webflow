@@ -1,19 +1,46 @@
 {
   "files": {
-    "main.css": "/static/css/main.268e146f.css",
-    "main.js": "/static/js/main.6dc9f6ae.js",
+    "main.css": "/static/css/main.b7acc717.css",
+    "main.js": "/static/js/main.a29be743.js",
     "static/media/home.png": "/static/media/home.50fe5223e7d7ccc1f709.png",
+    "static/media/people.png": "/static/media/people.1cbbdb93e64bd3230822.png",
+    "static/media/hbface.png": "/static/media/hbface.77734411baad7f6b3e41.png",
+    "static/media/girl-card.png": "/static/media/girl-card.8eef2b71192b858fcb88.png",
+    "static/media/marketing-home.png": "/static/media/marketing-home.8d18c43b0c26e7cd3e04.png",
+    "static/media/Ellipse 100.png": "/static/media/Ellipse 100.63cb771c3d8499fef873.png",
+    "static/media/challenge.png": "/static/media/challenge.474ec748aef14571023e.png",
+    "static/media/blog1.png": "/static/media/blog1.3eff25c7e72b71ebcc06.png",
+    "static/media/Ellipse3.png": "/static/media/Ellipse3.b15225d44bf92459b31e.png",
     "static/media/feature-1.png": "/static/media/feature-1.ad97f060535244eae7bf.png",
+    "static/media/Ellipse.png": "/static/media/Ellipse.ca78c9afe020cdca3ad1.png",
     "static/media/feature-4.png": "/static/media/feature-4.07ee3f35d4bae7fbd3e2.png",
+    "static/media/Ellipse2.png": "/static/media/Ellipse2.e7385ecdb07619e809fe.png",
+    "static/media/blog3.png": "/static/media/blog3.5b3d8f35e3ed09dee277.png",
     "static/media/feature-2.png": "/static/media/feature-2.5130c671a7a20e43bdfc.png",
     "static/media/feature-3.png": "/static/media/feature-3.743b2323152d9500d613.png",
-    "static/media/logo.svg": "/static/media/logo.c5d64328752ea092f33e3ec4b0076b78.svg",
+    "static/media/average.png": "/static/media/average.0bb508478372d8bbdf26.png",
+    "static/media/rate.png": "/static/media/rate.076ab566f5d915d76382.png",
+    "static/media/customer.png": "/static/media/customer.4510bb6451ebe866e614.png",
+    "static/media/customer1.png": "/static/media/customer1.ae7a522286b1de6c7e7a.png",
+    "static/media/return.png": "/static/media/return.6d2c950623b368b87b59.png",
+    "static/media/impressions.png": "/static/media/impressions.84e1e474d344ceea8fdb.png",
+    "static/media/blog2.png": "/static/media/blog2.03f746282192c0fe1557.png",
+    "static/media/card-2.png": "/static/media/card-2.272f9a1033d9785ea0ab.png",
+    "static/media/Romb.png": "/static/media/Romb.a55c9f00a5079854a5f7.png",
+    "static/media/card-3.png": "/static/media/card-3.87bbaca1e4afc17750e9.png",
+    "static/media/card-1.png": "/static/media/card-1.d59cf95770b7122b10ec.png",
+    "static/media/card-4.png": "/static/media/card-4.cc475ff0c51c788741d0.png",
+    "static/media/challenge.svg": "/static/media/challenge.1eb0f46d2768d1a0bff2d48e9c8571a6.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
+    "static/media/twitter.svg": "/static/media/twitter.24b5e33e4a893814f68bccd04edbb97f.svg",
     "index.html": "/index.html",
-    "main.268e146f.css.map": "/static/css/main.268e146f.css.map",
-    "main.6dc9f6ae.js.map": "/static/js/main.6dc9f6ae.js.map"
+    "static/media/youtube.svg": "/static/media/youtube.dff237b6324a617a4f07ffdc2d9b9b7b.svg",
+    "static/media/facebook.svg": "/static/media/facebook.9b444da5aa9a56243f8c6dde17a22a43.svg",
+    "main.b7acc717.css.map": "/static/css/main.b7acc717.css.map",
+    "main.a29be743.js.map": "/static/js/main.a29be743.js.map"
   },
   "entrypoints": [
-    "static/css/main.268e146f.css",
-    "static/js/main.6dc9f6ae.js"
+    "static/css/main.b7acc717.css",
+    "static/js/main.a29be743.js"
   ]
 }

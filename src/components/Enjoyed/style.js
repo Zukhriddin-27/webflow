@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { ReactComponent as challenge } from '../../assets/icons/challenge.svg'
 const Container = styled.div`
   max-width: 1440px;
   margin: auto;

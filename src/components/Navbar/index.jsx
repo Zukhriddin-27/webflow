@@ -40,6 +40,7 @@ const Navbar = () => {
       <MenuSection>
         <MenuSection.Items>
           <div className='subtitle'>
+            {/* eslint-disable-next-line */}
             <a
               href='/merchants'
               className={({ isActive }) => isActive && 'active'}
@@ -54,6 +55,7 @@ const Navbar = () => {
         </MenuSection.Items>
         <MenuSection.Items>
           <div className='subtitle'>
+            {/* eslint-disable-next-line */}
             <a
               href='/agencies'
               className={({ isActive }) => isActive && 'active'}
@@ -68,6 +70,7 @@ const Navbar = () => {
         </MenuSection.Items>
         <MenuSection.Items>
           <div className='subtitle'>
+            {/* eslint-disable-next-line */}
             <a
               href='/marketing'
               className={({ isActive }) => isActive && 'active'}

@@ -1,12 +1,12 @@
 import React from 'react'
 import useId from '../hooks/useId'
 import Home from '../page/Home'
-import About from '../page/About'
+// import About from '../page/About'
 import Pricing from '../page/Pricing'
 import Merchants from '../page/Merchants'
 import Agencies from '../page/Agencies'
 import MarketingPage from '../page/Marketing'
-import Hbface from '../page/hbface'
+import About from '../page/hbface'
 export const navbar = [
   {
     id: useId,
@@ -89,12 +89,12 @@ export const navbar = [
     private: false,
     hidden: true,
   },
-  {
-    id: useId,
-    element: <Hbface />,
-    title: 'HBFace',
-    path: '/hbface',
-    private: false,
-    hidden: true,
-  },
+  // {
+  //   id: useId,
+  //   element: <Hbface />,
+  //   title: 'HBFace',
+  //   path: '/hbface',
+  //   private: false,
+  //   hidden: true,
+  // },
 ]

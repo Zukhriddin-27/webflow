@@ -139,6 +139,7 @@ const Header = () => {
                 </div>
               </div>
               <div className='btn'>
+                {/* eslint-disable-next-line */}
                 <a href='#'>Learn more</a>
               </div>
             </div>
